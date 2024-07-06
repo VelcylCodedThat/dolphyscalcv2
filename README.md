@@ -1,4 +1,4 @@
-Dolphys: The Last Calculator You'll Ever Need.
+<h1>Dolphys: The Last Calculator You'll Ever Need.</h1>
 
 Welcome to Dolphys, a powerful command-line python calculator that can perform a wide range of mathematical operations, from simple arithmetic to advanced calculus and currency conversions.
 
